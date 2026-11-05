@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DualCast Audio</string>
+    <string name="service_notification_channel_name">Dual Audio Routing Service</string>
+    <string name="service_notification_channel_desc">Notifications for ongoing Bluetooth dual audio streaming</string>
+    <string name="notification_title">Dual Audio Routing Active</string>
+    <string name="notification_text">Streaming internal audio to two Bluetooth endpoints</string>
+    <string name="notification_action_stop">Stop Routing</string>
+</resources>
+
